@@ -23,6 +23,7 @@ body {
     margin: 5rem auto;
     width: 1000px;
     height: 800px;
+    background-color: var(--off-white);
 }
  
 body {
